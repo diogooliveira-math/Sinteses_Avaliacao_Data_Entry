@@ -1,0 +1,1282 @@
+[
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, pouco participativa e não revela empenho nas atividades propostas. Deverá demonstrar interesse.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, mas pouco participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual e participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco pontual, embora participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua e pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e pouco participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é pouco assídua, embora pontual e participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e pouco participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua e participativa, mas pouco pontual. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, mas pouco pontual e participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa, e o empenho não foi satisfatório. Revela interesse nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa nas aulas. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual, mas pouco participativa. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual e participativa. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual e participativa. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, pontual e participativa. O empenho não foi satisfatório neste período.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua e pontual e participativa. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "A aluna é assídua, pontual e participativa. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "A aluna é assídua, pontual e participativa. Apesar de apresentar algumas dificuldades, revela empenho nas atividades propostas.",
+    "Genero": "F",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, pouco participativo e não revela empenho nas atividades propostas. Deverá demonstrar interesse.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, mas pouco participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual e participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco pontual, embora participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo e pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e pouco participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é pouco assíduo, embora pontual e participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 0,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e pouco participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo e participativo, mas pouco pontual. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, mas pouco pontual e participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 0,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo, e o empenho não foi satisfatório. Revela interesse nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo nas aulas. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual, mas pouco participativo. Revela interesse e empenho nas atividades propostas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 0,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual e participativo. Deverá demonstrar interesse pelas atividades propostas e o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual e participativo. Deverá demonstrar interesse pelas atividades propostas. Revela empenho nas tarefas. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 0,
+    "Empenho": 1,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, pontual e participativo. Revela interesse, mas o empenho não foi satisfatório.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo e pontual e participativo. Revela interesse nas atividades propostas, mas o empenho não foi satisfatório. Apresenta algumas dificuldades.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 0,
+    "Dificuldades": 1
+  },
+  {
+    "Texto": "O aluno é assíduo, pontual e participativo. Revela interesse e empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 0
+  },
+  {
+    "Texto": "O aluno é assíduo, pontual e participativo. Apesar de apresentar algumas dificuldades, revela empenho nas atividades propostas.",
+    "Genero": "M",
+    "Assiduidade": 1,
+    "Pontualidade": 1,
+    "Participação": 1,
+    "Interesse": 1,
+    "Empenho": 1,
+    "Dificuldades": 1
+  }
+]
