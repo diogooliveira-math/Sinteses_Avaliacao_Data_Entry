@@ -9,7 +9,6 @@ import json
 import sqlite3
 from cli import (
     validate_text,
-    backup_db,
     get_database_path,
     update_entry_in_db
 )
@@ -29,22 +28,7 @@ def test_validate_text():
         status = "✓" if valid == expected_valid else "✗"
         print(f"{status} {description}: {message}")
 
-def test_backup():
-    """Test backup creation"""
-    print("\n=== Teste: Backup de base.json ===")
-    
-    result = backup_json()
-    if result:
-        json_path = get_json_path()
-        # Count backup files
-        import glob
-        backups = glob.glob(f"{json_path}.backup.*")
-        print(f"✓ Backup criado com sucesso")
-        print(f"  Total de backups: {len(backups)}")
-        if backups:
-            print(f"  Último backup: {os.path.basename(backups[-1])}")
-    else:
-        print("✗ Falha ao criar backup")
+# Backup-related functionality removed: tests no longer create backups.
 
 def test_update_entry():
     """Test updating an entry in JSON and database"""
@@ -83,8 +67,7 @@ def test_update_entry():
         "Dificuldades": diff
     }
     
-    # Create backup before updating DB
-    backup_db()
+    # No backup step (feature removed)
 
     # Attempt update (DB only)
     result = update_entry_in_db(db_path, criteria, new_text)

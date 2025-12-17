@@ -62,9 +62,19 @@ def find_resource(name):
     if os.path.exists(p):
         return os.path.abspath(p)
 
+    # 3b) check common 'dist' subdirectory (useful for distributions)
+    p = os.path.join(app_dir, 'dist', name)
+    if os.path.exists(p):
+        return os.path.abspath(p)
+
     # 4) parent of application directory
     parent = os.path.dirname(app_dir)
     p = os.path.join(parent, name)
+    if os.path.exists(p):
+        return os.path.abspath(p)
+
+    # Parent 'dist' as well
+    p = os.path.join(parent, 'dist', name)
     if os.path.exists(p):
         return os.path.abspath(p)
 
@@ -179,21 +189,16 @@ def backup_json():
 
 def backup_db():
     """Create a timestamped backup of base.db."""
+    # Backups for base.db have been disabled per user request — keep function
+    # for compatibility. We still verify the DB exists before proceeding.
     db_path = get_database_path()
     if not os.path.exists(db_path):
         print(f"✗ base.db não encontrado em: {db_path}")
         return False
 
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_path = f"{db_path}.backup.{timestamp}"
-
-    try:
-        shutil.copy2(db_path, backup_path)
-        print(f"✓ Backup criado: {os.path.basename(backup_path)}")
-        return True
-    except Exception as e:
-        print(f"✗ Erro ao criar backup do DB: {e}")
-        return False
+    # No backup created; return True to allow operations to continue.
+    print("⚠ Backup automático de base.db desativado; avançando sem backup.")
+    return True
 
 def open_text_in_editor(text):
     """

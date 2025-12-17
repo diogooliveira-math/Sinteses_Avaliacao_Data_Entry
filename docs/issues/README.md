@@ -104,6 +104,12 @@ Add entry to the "Recent Issues" section in main `README.md`
 - **Status:** ✅ Resolved
 - **Summary:** PowerShell alias contained empty path due to PyInstaller launcher issue and variable interpolation problem; resolved by using `python -m PyInstaller` and fixing variable expansion
 
+### 2025-12-17: Locked Executable Preventing Rebuild
+- **Issue:** [locked-executable_ISSUE.md](2025-12-17_locked-executable_ISSUE.md)
+- **Fix:** [locked-executable_FIX.md](2025-12-17_locked-executable_FIX.md)
+- **Status:** ✅ Resolved
+- **Summary:** `dist\sintese.exe` could be locked by a running process, causing cleanup/remove to fail and the build to abort; `build.ps1` now attempts to stop running `sintese` processes and retries removal, and only writes alias when the executable exists.
+
 ### 2025-12-17: Missing Executable
 - **Issue:** [missing-executable_ISSUE.md](2025-12-17_missing-executable_ISSUE.md)
 - **Fix:** [missing-executable_FIX.md](2025-12-17_missing-executable_FIX.md)

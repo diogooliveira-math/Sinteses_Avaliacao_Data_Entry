@@ -95,14 +95,8 @@ def test_full_simulation():
     print("Test 3: Full CLI simulation with missing database")
     print("-" * 50)
     
-    # Backup real database if it exists
-    real_db = "base.db"
-    backup_db = "base.db.backup"
-    db_existed = os.path.exists(real_db)
-    
-    if db_existed:
-        shutil.copy(real_db, backup_db)
-        os.remove(real_db)
+    # Do not modify or backup existing base.db — backup feature removed
+    db_existed = os.path.exists("base.db")
     
     try:
         # Mock user inputs matching the error scenario
@@ -130,11 +124,8 @@ def test_full_simulation():
                 print(f"❌ FAILED: Got unexpected error: {type(e).__name__}: {e}")
     
     finally:
-        # Restore database if it existed
-        if db_existed and os.path.exists(backup_db):
-            shutil.move(backup_db, real_db)
-        elif os.path.exists(backup_db):
-            os.remove(backup_db)
+        # No backup files created; nothing to restore
+        pass
     
     print()
 

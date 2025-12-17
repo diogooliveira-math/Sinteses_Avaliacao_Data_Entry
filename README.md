@@ -1,5 +1,7 @@
 # Sintese CLI - Student Assessment Text Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A command-line tool that generates personalized assessment texts based on student behavior characteristics.
 
 ## 📋 Overview
@@ -75,6 +77,16 @@ Sinteses_Avaliacao_Data_Entry/
 - Python 3.11+
 - Windows OS
 - PowerShell
+
+### From GitHub
+
+```powershell
+git clone https://github.com/diogooliveira-math/Sinteses_Avaliacao_Data_Entry.git
+cd Sinteses_Avaliacao_Data_Entry
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt  # optional: create this file if your project has deps
+```
 
 ### First-Time Setup
 
@@ -218,11 +230,11 @@ When adding new features or fixing issues:
 
 ## 📝 License
 
-[Add your license information here]
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-[Add your information here]
+Diogo Freitas Oliveira email: diogolll@outlook.pt
 
 ---
 
